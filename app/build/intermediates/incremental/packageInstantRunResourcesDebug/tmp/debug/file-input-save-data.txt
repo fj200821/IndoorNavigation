@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Aug 02 17:22:36 IST 2019
+1.base=C\:\\poc\\Vuzix\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=orderDetails.json
+0.set=ASSET
+0.base=C\:\\poc\\Vuzix\\app\\build\\intermediates\\merged_assets\\debug\\out
+1.path=APIService.cer

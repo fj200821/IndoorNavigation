@@ -1,0 +1,3 @@
+include ':app', ':zxing_library1'
+include ':android'
+project(':zxing_library1').projectDir = new File('zxing_library')

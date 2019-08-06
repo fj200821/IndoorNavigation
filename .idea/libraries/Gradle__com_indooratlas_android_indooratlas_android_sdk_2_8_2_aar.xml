@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.indooratlas.android:indooratlas-android-sdk:2.8.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a9628f2d9cdf48500dbe8feaa149646/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a9628f2d9cdf48500dbe8feaa149646/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a9628f2d9cdf48500dbe8feaa149646/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.indooratlas.android/indooratlas-android-sdk/2.8.2/29acb2bde99f76ea893cdace8861732212c46580/indooratlas-android-sdk-2.8.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

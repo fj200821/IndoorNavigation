@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:background="#2E2E2E"
+    tools:context="com.capgemini.vuzixscanner.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/txt_result"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:visibility="visible"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:padding="@dimen/margin_15"
+        android:textSize="34sp"
+        android:text="Welcome to Dream International"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:gravity="center_vertical|center_horizontal"
+        />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_start"
+        android:text="Start"
+        android:textSize="18sp"
+        android:background="@drawable/btn_selector"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:clickable="true"
+        android:focusable="true"
+        android:visibility="gone"
+        android:focusableInTouchMode="true"/>
+
+
+
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_scan"
+        android:text="@string/scan_barcode"
+        android:layout_marginTop="50dp"
+        android:textSize="18sp"
+        android:background="@drawable/btn_selector"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:clickable="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:visibility="gone"
+        />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_scan_qr"
+        android:text="@string/scan_qr"
+        android:background="@drawable/btn_selector"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_gravity="center"
+        android:clickable="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:visibility="gone"
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ge_blue_primary">#2E5DAA</color>
+    <color name="ge_blue_secondary">#367DCB</color>
+   <!-- <color name="ge_button_top">#519BFA</color>
+    <color name="ge_button_center">#2260F4</color>-->
+    <color name="ge_button_top">#2260F4</color>
+    <color name="ge_button_center">#5FB404</color>
+    <color name="list_transparent">#80000000</color>
+    <color name="platform_circle_fill">#33ff0000</color>
+    <color name="platform_circle">#ffff0000</color>
+    <color name="ia_blue">#ff00a5f5</color>
+
+    <color name="panorama_text_color">#ffff0000</color>
+
+</resources>

@@ -1,0 +1,36 @@
+[
+  {
+    "id" : "411",
+    "modelid" : "4111",
+    "catalogname" : "Tommy Hilfiger Perfume",
+    "imagepath" : "/images/FitFlareWhiteDarkBlueDress.png",
+    "desc" : "Tommy Hilfiger Perfume",
+    "price" : "200",
+    "discount" : "10",
+    "barcode" : "P2000002100",
+    "barcodeimage" : "/images/barcodes/barcode11.png",
+    "statusInStock" : "InStock",
+    "stockAvailable" : "1000",
+    "color" : "White and Dark Blue",
+    "rating" : "4",
+    "brand" : "Dress"
+  }
+/*,
+{
+    "id" : "111",
+    "modelid" : "1111",
+    "catalogname" : "Iphone 5",
+    "imagepath" : "/images/USPoloMenTshirt.jpg",
+    "desc" : "Iphone 5",
+    "price" : "200",
+    "discount" : "10",
+    "rfid" : "10000",
+    "barcode" : "P1000000004",
+    "barcodeimage" : "/images/barcodes/barcode1.png",
+    "statusInStock" : "InStock",
+    "stockAvailable" : "1000",
+    "color" : "black",
+    "rating" : "4",
+    "brand" : "Dress"
+  }*/
+]

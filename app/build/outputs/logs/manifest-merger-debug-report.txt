@@ -1,0 +1,458 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:2:1-134:12
+INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:2:1-134:12
+INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:2:1-134:12
+INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:2:1-134:12
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\55d18cac92f6ea2bf3411ef86a9bae37\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\ea790eb7af166a5bedde19df5543ccb3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\b956858f8d350b5246f02a598aa0b46c\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\1d4b14fdec9195a11141ad44a31bb132\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\864071c3bf9f00a3e8553706bf1079d2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\0974fa63a7f738bfcb153e082a8e90c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\13bd9c0d478e8768a260f1a45333ec82\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\944c01ee086e38e80b2dc2e638a7535e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\40cd5c3c11ff0f7361a79824bb880efb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:2:1-36:12
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.2.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\83c1b398048893cfd8c2797180ef4cc2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\5322399143fda23fd4df0ae1f0f9f993\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\15598bdd30f400ab4d64f2e3edfee764\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\bd7c0ab777aa811fa876d03bcd1e137c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\c41590689ad50529b11a247b87fb0793\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\99f77f642f8d8c8a3f85ad76bb9d894d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\2378e44077f7034fd40229bc1284a95c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\4d5268ef9a75a46a6a36da88ca334d08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\b71612b1e97ab27e34e6c13fb1225d2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d3f3714ae0560314990ef44c4c6a7628\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\8a824f0ce205be62b91be524bc622c98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\88e5dd6755da572ace11bce9913c140f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\13a757d772ffcbf94b5bc0aaf2a00af5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\555f99bd7732ddfad0161c7efee188a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\782f9da3e0b352b4db28cda0eb125c9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\24298aecf29051ef087c918b79019e2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\e0352fa39e533dd851046e644002a3f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\973f726d7d66dbaae1dceb234b893547\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d64852f7241a299559ae060f6714dfc7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\bed69de69ea486d5a7ef3fb8fcc81d23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\e6e915e98363f4d12b43050de7d5ce61\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\47180b9b1684c9a115e6051319cf5f15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\999e5d0fdbf9353cbd07490fa9685560\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\232322afa253d016daa99dd9ffd59e9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\09cba9c4331d3c1390b235272dde81f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\8cfbdca6dd93e0c6a236a64a3b5ee13b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\a8d14739630aa311de14329249f5ba79\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\50e2460b94a619ceb29464e02346bc8d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\667b7f8abad99a5d67b3b4a3170dc595\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\e7680a3ecc4476f9ce047faf635843f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\2a4fb1df47284c879206a2af31ffb780\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d1b7ee56aafb9bf1ca1e648fcf035c9c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\39e28ec2e7061791a55aa5d46de315cc\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\338955889b368959eba0d1945ed302c9\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\26cfc802063aa4fa41f0c745c36bb6ce\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:2:1-134:12
+INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:2:1-134:12
+INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:2:1-134:12
+	package
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+		INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:2:1-134:12
+		INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:2:1-134:12
+		INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:5:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:6:19-67
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:7:5-9:35
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:17:5-19:36
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:8:9-61
+uses-feature#android.hardware.sensor.magnetometer
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:10:5-12:35
+	android:required
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:11:9-60
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:15:5-81
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:15:5-81
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:16:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:17:5-67
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:12:5-67
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:18:5-79
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:11:5-79
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:20:5-76
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:14:5-76
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:22:22-65
+uses-feature#android.hardware.sensor.compass
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:27:5-29:35
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:20:5-22:36
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:29:9-32
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:28:9-55
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:30:5-32:35
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:23:5-25:36
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:32:9-32
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:31:9-57
+uses-feature#android.hardware.wifi
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:33:5-35:35
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:26:5-28:35
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:26:5-28:35
+	android:required
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:35:9-32
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:34:9-45
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:39:5-88
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:39:22-85
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:41:5-68
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:41:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:42:5-74
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:42:22-71
+uses-permission-sdk-23#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:44:5-88
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:44:29-85
+uses-permission-sdk-23#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:45:5-86
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:45:29-83
+uses-permission-sdk-23#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:46:5-95
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:46:29-92
+uses-permission-sdk-23#android.permission.BLUETOOTH
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:47:5-75
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:47:29-72
+uses-permission-sdk-23#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:48:5-81
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:48:29-78
+application
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:50:5-132:19
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\55d18cac92f6ea2bf3411ef86a9bae37\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\55d18cac92f6ea2bf3411ef86a9bae37\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\ea790eb7af166a5bedde19df5543ccb3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\ea790eb7af166a5bedde19df5543ccb3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\b956858f8d350b5246f02a598aa0b46c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\b956858f8d350b5246f02a598aa0b46c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\1d4b14fdec9195a11141ad44a31bb132\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\1d4b14fdec9195a11141ad44a31bb132\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\864071c3bf9f00a3e8553706bf1079d2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\864071c3bf9f00a3e8553706bf1079d2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\13bd9c0d478e8768a260f1a45333ec82\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\13bd9c0d478e8768a260f1a45333ec82\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\40cd5c3c11ff0f7361a79824bb880efb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\40cd5c3c11ff0f7361a79824bb880efb\AndroidManifest.xml:9:5-20
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:30:5-34:19
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:30:5-34:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\973f726d7d66dbaae1dceb234b893547\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\973f726d7d66dbaae1dceb234b893547\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d64852f7241a299559ae060f6714dfc7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d64852f7241a299559ae060f6714dfc7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\2a4fb1df47284c879206a2af31ffb780\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\2a4fb1df47284c879206a2af31ffb780\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d1b7ee56aafb9bf1ca1e648fcf035c9c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d1b7ee56aafb9bf1ca1e648fcf035c9c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\39e28ec2e7061791a55aa5d46de315cc\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\39e28ec2e7061791a55aa5d46de315cc\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\338955889b368959eba0d1945ed302c9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\338955889b368959eba0d1945ed302c9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\26cfc802063aa4fa41f0c745c36bb6ce\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\26cfc802063aa4fa41f0c745c36bb6ce\AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\973f726d7d66dbaae1dceb234b893547\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:53:9-41
+	android:icon
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:52:9-43
+	android:allowBackup
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:51:9-35
+	android:theme
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:54:9-40
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:55:9-57:39
+	android:value
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:57:13-36
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:56:13-70
+activity#com.capgemini.vuzixscanner.DashBoardActivity
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:59:9-68:20
+	android:label
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:61:13-45
+	android:theme
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:62:13-43
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:60:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:63:13-67:29
+action#android.intent.action.MAIN
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:64:17-69
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:64:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:66:17-77
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:66:27-74
+activity#com.capgemini.vuzixscanner.NavigationActivity
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:69:9-71:74
+	android:label
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:71:13-62
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:70:13-47
+service#com.capgemini.vuzixscanner.pedometer.StepService
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:73:9-58
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:73:18-55
+activity#com.capgemini.vuzixscanner.DetailActivity
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:75:9-77:61
+	android:label
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:77:13-58
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:76:13-43
+activity#com.capgemini.vuzixscanner.ProductListActivity
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:78:9-82:55
+	android:label
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:80:13-58
+	android:launchMode
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:81:13-43
+	android:theme
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:82:13-43
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:79:13-48
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:83:9-99:20
+	android:screenOrientation
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:86:13-50
+	android:windowSoftInputMode
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:88:13-60
+	android:configChanges
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:85:13-63
+	android:theme
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:87:13-71
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:84:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:89:13-93:29
+category#android.intent.category.DEFAULT
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:92:17-76
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:92:27-73
+intent-filter#action:name:com.google.zxing.client.android.CGCUSTOMSCAN+category:name:android.intent.category.DEFAULT
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:94:13-98:29
+action#com.google.zxing.client.android.CGCUSTOMSCAN
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:95:17-87
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:95:25-84
+activity#com.capgemini.vuzixscanner.ImageViewActivity
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:100:9-103:55
+	android:label
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:102:13-45
+	android:theme
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:103:13-43
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:101:13-46
+meta-data#com.indooratlas.android.sdk.API_KEY
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:121:9-123:47
+	android:value
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:123:13-44
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:122:13-63
+meta-data#com.indooratlas.android.sdk.API_SECRET
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:124:9-126:50
+	android:value
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:126:13-47
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:125:13-66
+activity#com.capgemini.vuzixscanner.ScanActivity
+ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:128:9-131:25
+	android:launchMode
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:129:13-43
+	android:theme
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:130:13-43
+	android:name
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml:128:19-47
+uses-sdk
+INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\55d18cac92f6ea2bf3411ef86a9bae37\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\55d18cac92f6ea2bf3411ef86a9bae37\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\ea790eb7af166a5bedde19df5543ccb3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\ea790eb7af166a5bedde19df5543ccb3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\b956858f8d350b5246f02a598aa0b46c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\b956858f8d350b5246f02a598aa0b46c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\1d4b14fdec9195a11141ad44a31bb132\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\1d4b14fdec9195a11141ad44a31bb132\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\864071c3bf9f00a3e8553706bf1079d2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\864071c3bf9f00a3e8553706bf1079d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\0974fa63a7f738bfcb153e082a8e90c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\0974fa63a7f738bfcb153e082a8e90c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\13bd9c0d478e8768a260f1a45333ec82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\13bd9c0d478e8768a260f1a45333ec82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\944c01ee086e38e80b2dc2e638a7535e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\944c01ee086e38e80b2dc2e638a7535e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\40cd5c3c11ff0f7361a79824bb880efb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\40cd5c3c11ff0f7361a79824bb880efb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:7:5-9:41
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:7:5-9:41
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.2.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\83c1b398048893cfd8c2797180ef4cc2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.2.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\83c1b398048893cfd8c2797180ef4cc2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\5322399143fda23fd4df0ae1f0f9f993\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\5322399143fda23fd4df0ae1f0f9f993\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\15598bdd30f400ab4d64f2e3edfee764\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\15598bdd30f400ab4d64f2e3edfee764\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\bd7c0ab777aa811fa876d03bcd1e137c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\bd7c0ab777aa811fa876d03bcd1e137c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\c41590689ad50529b11a247b87fb0793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\c41590689ad50529b11a247b87fb0793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\99f77f642f8d8c8a3f85ad76bb9d894d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\99f77f642f8d8c8a3f85ad76bb9d894d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\2378e44077f7034fd40229bc1284a95c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\2378e44077f7034fd40229bc1284a95c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\4d5268ef9a75a46a6a36da88ca334d08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\4d5268ef9a75a46a6a36da88ca334d08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\b71612b1e97ab27e34e6c13fb1225d2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\b71612b1e97ab27e34e6c13fb1225d2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d3f3714ae0560314990ef44c4c6a7628\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d3f3714ae0560314990ef44c4c6a7628\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\8a824f0ce205be62b91be524bc622c98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\8a824f0ce205be62b91be524bc622c98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\88e5dd6755da572ace11bce9913c140f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\88e5dd6755da572ace11bce9913c140f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\13a757d772ffcbf94b5bc0aaf2a00af5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\13a757d772ffcbf94b5bc0aaf2a00af5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\555f99bd7732ddfad0161c7efee188a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\555f99bd7732ddfad0161c7efee188a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\782f9da3e0b352b4db28cda0eb125c9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\782f9da3e0b352b4db28cda0eb125c9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\24298aecf29051ef087c918b79019e2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\24298aecf29051ef087c918b79019e2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\e0352fa39e533dd851046e644002a3f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\e0352fa39e533dd851046e644002a3f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\973f726d7d66dbaae1dceb234b893547\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\973f726d7d66dbaae1dceb234b893547\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d64852f7241a299559ae060f6714dfc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d64852f7241a299559ae060f6714dfc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\bed69de69ea486d5a7ef3fb8fcc81d23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\bed69de69ea486d5a7ef3fb8fcc81d23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\e6e915e98363f4d12b43050de7d5ce61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\e6e915e98363f4d12b43050de7d5ce61\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\47180b9b1684c9a115e6051319cf5f15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\47180b9b1684c9a115e6051319cf5f15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\999e5d0fdbf9353cbd07490fa9685560\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\999e5d0fdbf9353cbd07490fa9685560\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\232322afa253d016daa99dd9ffd59e9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\232322afa253d016daa99dd9ffd59e9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\09cba9c4331d3c1390b235272dde81f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\09cba9c4331d3c1390b235272dde81f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\8cfbdca6dd93e0c6a236a64a3b5ee13b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\8cfbdca6dd93e0c6a236a64a3b5ee13b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\a8d14739630aa311de14329249f5ba79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\a8d14739630aa311de14329249f5ba79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\50e2460b94a619ceb29464e02346bc8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\50e2460b94a619ceb29464e02346bc8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\667b7f8abad99a5d67b3b4a3170dc595\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\667b7f8abad99a5d67b3b4a3170dc595\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\e7680a3ecc4476f9ce047faf635843f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\e7680a3ecc4476f9ce047faf635843f1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\2a4fb1df47284c879206a2af31ffb780\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\2a4fb1df47284c879206a2af31ffb780\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d1b7ee56aafb9bf1ca1e648fcf035c9c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\d1b7ee56aafb9bf1ca1e648fcf035c9c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\39e28ec2e7061791a55aa5d46de315cc\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\39e28ec2e7061791a55aa5d46de315cc\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\338955889b368959eba0d1945ed302c9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\338955889b368959eba0d1945ed302c9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\26cfc802063aa4fa41f0c745c36bb6ce\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\26cfc802063aa4fa41f0c745c36bb6ce\AndroidManifest.xml:4:5-43
+INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+		INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+		ADDED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+		INJECTED from C:\poc\Vuzix\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\b956858f8d350b5246f02a598aa0b46c\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\b956858f8d350b5246f02a598aa0b46c\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\b956858f8d350b5246f02a598aa0b46c\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\b956858f8d350b5246f02a598aa0b46c\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\864071c3bf9f00a3e8553706bf1079d2\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\864071c3bf9f00a3e8553706bf1079d2\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\864071c3bf9f00a3e8553706bf1079d2\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:13:22-73
+service#com.indooratlas.android.sdk.IALocationService
+ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:31:9-33:49
+	android:label
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:33:13-46
+	android:name
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.8.2] C:\Users\agnipal\.gradle\caches\transforms-2\files-2.1\3a9628f2d9cdf48500dbe8feaa149646\AndroidManifest.xml:32:13-73

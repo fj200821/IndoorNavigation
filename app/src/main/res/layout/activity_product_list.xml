@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#2E2E2E"
+        android:orientation="vertical"
+        tools:context="com.capgemini.vuzixscanner.ProductListActivity">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Please scan the QR code of products to start delivery"
+            android:id="@+id/txt_header"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            android:padding="@dimen/margin_10"
+            />
+
+        <Button
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_navigate"
+            android:text="@string/navigate"
+            android:background="@drawable/btn_selector"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:layout_gravity="center"
+            android:clickable="true"
+            android:focusable="true"
+            android:paddingLeft="@dimen/margin_20"
+            android:paddingRight="@dimen/margin_20"
+            android:focusableInTouchMode="true"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:visibility="gone"
+            />
+
+        <ListView
+            android:id="@+id/lv_products"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#E6E6E6"
+            android:listSelector="#540000FF"
+            android:layout_below="@+id/txt_header"
+            android:layout_marginTop="@dimen/margin_10"
+            android:padding="@dimen/margin_10"
+            >
+
+        </ListView>
+    </RelativeLayout>
+</ScrollView>
