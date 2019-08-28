@@ -1,5 +1,5 @@
 .gradle
 .idea
-/app/build/
-/android/build/
-/zxing_library/build/
+app/build/
+android/build/
+zxing_library/build/
